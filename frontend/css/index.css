@@ -50,3 +50,13 @@ body{
     margin-bottom: 20px;
     
 }
+.autosuggest{
+    border:2px solid black;
+    width:300px;
+    text-align:center;
+    margin:60px auto;
+    padding:20px;
+    border-radius:15px;
+    background-color:white;
+    box-shadow:0 4px 12px rgba(0,0,0,0.2);
+}
