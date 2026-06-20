@@ -34,3 +34,19 @@ h1 {
 body{
     margin :0px;
 }
+.card{
+    border:2px solid black;
+    width:300px;
+    text-align:center;
+    margin-top: 60px;
+    margin-left: 750px;
+
+}
+.card img{
+    width:100%;
+    
+}
+.card button{
+    margin-bottom: 20px;
+    
+}
